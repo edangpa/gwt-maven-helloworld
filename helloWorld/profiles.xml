@@ -1,0 +1,14 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <settings>
+   <profiles>
+     <profile>
+       <id>gwt-1.4.62</id> 
+       <properties>
+         <google.webtoolkit.home>/home/suco/linux/gwt-linux-1.4.62/</google.webtoolkit.home>
+       </properties>
+     </profile>
+   </profiles> 
+   <activeProfiles>
+     <activeProfile>gwt-1.4.62</activeProfile>
+   </activeProfiles>
+</settings>
